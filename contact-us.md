@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Us
+feature_image: "../images/lake.jpg"
 ---
 
 Glidden Counseling, LLC <br/>

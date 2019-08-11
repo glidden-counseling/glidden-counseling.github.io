@@ -25,7 +25,7 @@ baseurl: ''
 title: 'Glidden Counseling'
 description: 'Counseling in Sand Point, ID'
 permalink: pretty
-logo: "images/logo.png"
+logo: "/images/logo.png"
 
 # Pagination
 paginate: 5
@@ -36,7 +36,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Contact Us
-  url: /contact-us.html
+  url: /contact-us/
 
 # Footer nav
 navigation_footer:
