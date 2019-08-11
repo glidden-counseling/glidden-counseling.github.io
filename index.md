@@ -12,3 +12,4 @@ I am a Licensed Clinical Professional Counselor, a north Idaho native and am als
  
 Therapy can seem like a scary step, it is hard to acknowledge you are in a place in life where you need help and support. Together, we will carefully explore your challenges and find a way to move forward.
 
+ - Brom Glidden
