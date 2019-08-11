@@ -1,9 +1,6 @@
 ---
+layout: page
 title: Contact Us
-feature_text: |
-  ## Glidden Counseling
-feature_image: "images/lake.jpg"
-excerpt: Sand Point, ID
 ---
 
 Glidden Counseling, LLC <br/>
