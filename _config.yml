@@ -37,3 +37,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site navigation (alembic theme)
+navigation_header:
+- title: About Us
+  url: /index.html
+- title: Contact Us
+  url: /contact-us.html
