@@ -35,18 +35,18 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: Contact Us
-  url: /contact-us/
 - title: About Us
   url: /about-us/
+- title: Contact Us
+  url: /contact-us/
 
 # Footer nav
 navigation_footer:
 - title: Back to top
   url: "#top"
-- title: Contact Us
-  url: /contact-us/
 - title: About Us
   url: /about-us/
+- title: Contact Us
+  url: /contact-us/
 
 
