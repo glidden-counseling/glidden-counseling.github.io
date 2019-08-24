@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: Contact Us
   url: /contact-us/
+- title: About Us
+  url: /about-us/
 
 # Footer nav
 navigation_footer:
@@ -44,3 +46,7 @@ navigation_footer:
   url: "#top"
 - title: Contact Us
   url: /contact-us/
+- title: About Us
+  url: /about-us/
+
+
