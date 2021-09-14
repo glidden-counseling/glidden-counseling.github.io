@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: page
-feature_image: "images/lake.jpg"
+feature_image: "images/Lake_Modified.jpg"
 ---
 
 We all struggle in life, but many people feel uncomfortable pursuing therapy because of the stigma associated with it. People may fear that asking for help is a sign of weakness or indicates a serious mental health issue. In reality, seeking support is an indication of strength, health, and resilience. Whether this is your first time seeking a therapist or you are returning to therapy, in my practice you can discuss issues openly and we will work collaboratively to resolve conflicts and develop confidence. 
