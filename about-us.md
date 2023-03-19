@@ -12,7 +12,7 @@ Brom is a Licensed Clinical Professional Counselor and north Idaho native. Bromâ
 
 ### Jarae Swanstrom
 
-[Coming soon]
+Jarae is a Licensed Professional Counselor and attachment-oriented therapist. She utilizes a holistic approach with her clients, working to connect the mind, body, and spirit. Jarae strives to provide a safe and non-judgmental environment for her clients, and enjoys working with teens, adults, couples, and families. She specializes in trauma, depression, anxiety, and relationship issues. Jarae is also trained in EMDR as well as Emotionally Focused Couple Therapy. 
 
 
 ### Michael Nickerson
