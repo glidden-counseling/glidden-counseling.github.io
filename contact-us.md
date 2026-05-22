@@ -8,7 +8,7 @@ feature_image: "../images/Lake_Modified.jpg"
 
 Glidden Counseling, LLC is not currently offering counseling, psychotherapy, diagnosis, clinical mental health treatment, clinical supervision, or peer support services.
 
-For current life coaching services, please visit True Connections Life Coaching and Consultation.
+For current life coaching services, please visit [True Connections Life Coaching and Consultation](https://coachingtrueconnections.com/).
 
 If you are seeking counseling, psychotherapy, medication management, crisis support, or a higher level of clinical care, please contact a licensed mental health provider, your primary care provider, your insurance company, or an appropriate local mental health resource.
 
