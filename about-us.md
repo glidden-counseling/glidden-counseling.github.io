@@ -16,5 +16,4 @@ Life coaching is designed for people who want practical, forward-moving support 
 
 If you are looking for counseling, psychotherapy, medication management, crisis support, or a higher level of clinical care, please contact a licensed mental health provider, your primary care provider, your insurance company, or an appropriate local mental health resource.
 
-For current life coaching services, please visit True Connections Life Coaching and Consultation.
-
+For current life coaching services, please visit [True Connections Life Coaching and Consultation](https://coachingtrueconnections.com/).
